@@ -105,9 +105,9 @@ flutter build apk --release
 ---
 
 ## 📂 Condensed Directory Structure
-	screens/                 // Màn hình UI (simulator, advanced, ...)
-	ui/                      // Style, widgets tái sử dụng
-lib/
+	screens/                 // UI (simulator, advanced, ...)
+	ui/                      // Style, widgets
+    lib/
 	main.dart                // App entry
 	core/                    // Simulation & utilities
 		quantum_state.dart
@@ -116,8 +116,8 @@ lib/
 		quantum_utils.dart
 	screens/                 // UI screens (simulator, advanced, ...)
 	ui/                      // Styles / reusable widgets
-docs/                      // Tài liệu mở rộng, prompt, mô tả app
-test/                      // (Có thể thêm test đơn vị sau)
+    docs/                      // Docs
+    test/                      //
 ```
 
 ---

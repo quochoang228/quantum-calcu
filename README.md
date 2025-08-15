@@ -118,7 +118,6 @@ flutter build apk --release
 	ui/                      // Styles / reusable widgets
     docs/                      // Docs
     test/                      //
-```
 
 ---
 

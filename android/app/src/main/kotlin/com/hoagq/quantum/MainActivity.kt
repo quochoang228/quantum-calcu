@@ -1,4 +1,4 @@
-package com.example.quantum_calcu
+package com.hoagq.quantum
 
 import io.flutter.embedding.android.FlutterActivity
 
